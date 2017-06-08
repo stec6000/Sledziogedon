@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: b80e43cb4f354b04e8d86b4b1b4d90b7
+timeCreated: 1480624292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charidle
+    21300002: charrrun1
+    21300004: charrrun2
+    21300006: charrrun3
+    21300008: charrrun4
+    21300010: charrjump1
+    21300012: charrjump2
+    21300014: charlrun1
+    21300016: charlrun2
+    21300018: charlrun3
+    21300020: charlrun4
+    21300022: char_11
+    21300024: charlrun5
+    21300026: char_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charidle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrrun1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrrun2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 82
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrrun3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrrun4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 82
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrjump1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 83
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charrjump2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charlrun1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charlrun2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charlrun3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charlrun4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: char_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: charlrun5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: char_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
